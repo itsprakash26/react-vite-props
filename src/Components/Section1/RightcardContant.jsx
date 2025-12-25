@@ -10,7 +10,7 @@ const RightcardContant = (props) => {
 
                     <button
                         style={{ backgroundColor: props.color }}
-                        className=" text-white font-medium rounded-full py-2 px-8 transition-all duration-300 hover:scale-98 active:scale-20"
+                        className=" text-white font-medium rounded-full py-2 px-8 transition-all duration-300 hover:scale-98 active:scale-80"
                     >
                         {props.tag}
                     </button>
